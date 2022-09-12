@@ -95,7 +95,7 @@ public class Main {
         float kristinaSalIncYear = (kristinaSalaryIncrease - kristinaSalary) * 12;
         System.out.println("Зарплата Маши после индексации составила " + mashaSalaryIncrease + " рублей в месяц, годовое увеличение зарплаты составило " + mashaSalIncYear + " рублей.");
         System.out.println("Зарплата Дениса после индексации составила " + denisSalaryIncrease + " рублей в месяц, годовое увеличение зарплаты составило " + denisSalIncYear + " рублей.");
-        System.out.println("Зарплата Кристины после индексации составила " + kristinaSalaryIncrease + " рублей в месяц, годовое увеличение зарплаты составило " + kristinaSalIncYear + " рублей.");
+        System.out.println("Зарплата Кристины после индексации составила " + kristinaSalaryIncrease + " рублей в месяц, годовое увеличение зарплаты составило " + kristinaSalIncYear + " рублей. ");
 
 
     }
